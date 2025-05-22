@@ -1,16 +1,23 @@
-## Hi there 👋
+# 이름 / 김효정
+👋 안녕하세요! 저는 [백엔드 개발]에 관심있는 개발자입니다
 
-<!--
-**hyojk11/hyojk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 기술 스택
+- 언어: Java, JavaScript, Python(초급)
+- 프레임워크: Spring, React(초급), Node.js(초급)
+- 데이터베이스: MySQL, Mybatis
+- 관심분야: SI, 헬스케어, EMR(전자차트)
 
-Here are some ideas to get you started:
+## 📂 주요 프로젝트
+- [7dev-조달 ERP 시스템] 7인 팀 프로젝트  
+  : 펜·연필 제조사의 생산·구매 프로세스를 통합 관리하는 ERP 시스템을 개발했습니다.  
+ 고객사 주문 → 자재 조달 → 생산 계획 → 출고까지의 흐름을 일원화하여 각 권한(관리자, 사원, 거래처)별로 구분된 기능을 제공합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LoginProject-로그인 화면 구현] 개인 프로젝트  
+  : Spring Security와 OAuth를 활용한 로그인 기능을 구현 중에 있습니다.
+
+## 🌱 현재 학습 중
+- Docker
+- AWS, CI/CD
+
+## 📫 연락처
+- 이메일: hyojk11@gmail.com
