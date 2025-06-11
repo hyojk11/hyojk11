@@ -5,7 +5,6 @@
 - 언어: Java, JavaScript, Python(초급)
 - 프레임워크: Spring, React(초급), Node.js(초급)
 - 데이터베이스: MySQL, Mybatis
-- 관심분야: SI, 헬스케어, EMR(전자차트)
 
 ## 📂 주요 프로젝트
 - [7dev-조달 ERP 시스템] 7인 팀 프로젝트  
